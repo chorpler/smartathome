@@ -2,3 +2,9 @@
 *__pycache__*
 *~
 *pem
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+.history/
